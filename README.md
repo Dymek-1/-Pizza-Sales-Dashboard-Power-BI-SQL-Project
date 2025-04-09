@@ -1,4 +1,3 @@
-# -Pizza-Sales-Dashboard-Power-BI-SQL-Project
 # 🍕 Pizza Sales Dashboard – Power BI + SQL Project
 
 ## 📌 Project Overview
